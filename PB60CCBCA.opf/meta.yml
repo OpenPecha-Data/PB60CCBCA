@@ -1,0 +1,40 @@
+id: PB60CCBCA
+initial_creation_type: input
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA3JT13339
+  instance_id: http://purl.bdrc.io/resource/IE3JT13339
+  collection_id: http://purl.bdrc.io/resource/PR0ET001
+  language_id: None
+  title:
+    bo:
+    - བརྒྱ་བཞིའི་ཆོ་ག
+  alt_title: {}
+  author: http://purl.bdrc.io/resource/P4956
+  publisher: DharmaDownload
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    ce5c176d3f8f410888754d13190dd43a:
+      title: མདོས་བྱིན་བརླབས་དང་ལྷན་ཐབས་བཅས་པ་བཞུགས་སོ༔བདག་ལྷར་གསལ་བའི་ཐུགས་ཀའི་ཧཱུཾ་ལས་ཡི་གེ་རཾ་ཡཾ་ཁཾ་གསུམ་སྤྲོས་ཏེ༔ཧཱུཾ་ལས་རཾ་འཕྲོས་པས་རཾ་འ
+      volume_number: 1
+      base_file: UT3JT13339_001_0000.txt
+      reference: http://purl.bdrc.io/resource/VL60539F12859ECB05
+      image_group: null
+      quality: null
+    41eac489b7904a60b443c1cca03b0ec5:
+      title: ༄༅།་།རྒྱལ་ཆེན་བཞིའི་བཟློག་བསྒྱུར་དང་རེ་མ་ཏིའི་བཟློག་བསྒྱུར་གྱིས་པ་བཞུགས།་།
+      volume_number: 2
+      base_file: UT3JT13339_002_0000.txt
+      reference: http://purl.bdrc.io/resource/VLBD9B655D16788DDC
+      image_group: null
+      quality: null
+    40647607098c4fd5b8987297b78e0e86:
+      title: ༄༅།་།བརྒྱ་བཞིའི་ཆོ་ག་སློབ་དཔོན་པདྨས་མཛད་པ་བཞུགས་སོ།་།ཨེ་ཝཾ༔
+      volume_number: 3
+      base_file: UT3JT13339_003_0000.txt
+      reference: http://purl.bdrc.io/resource/VLBD9768A9BD28C1F3
+      image_group: null
+      quality: null
+  reproductionOf: []
+created_at: '2021-12-30T16:33:28.301918'
+last_modified_at: '2021-12-30T16:33:28.301926'
